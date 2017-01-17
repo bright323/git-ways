@@ -1,0 +1,10 @@
+第一步：在github官网上新建一个项目
+第二步：clone链接
+第三步：右键打开git Bash Here
+刚打开的时候，默认目录一般默认是桌面
+第四步：执行 git clone 链接
+第五步：cd 桌面上出现的文件夹的名称，再执行 git init
+第六步：执行 git add .
+第七步：执行 git commit -m "注释"
+第八步：执行 git push origin master
+注意：可通过 git ls-files 查询文件夹中的文件,文件名不要有中文
